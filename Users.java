@@ -1,4 +1,3 @@
-Hello updated
 Hello Friends
 How is git commnds class
 
